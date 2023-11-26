@@ -4,7 +4,7 @@
 
 FreeEigen is a Jupyter Notebook designed to plot the eigenspectrum of free lattice fermions. The eigenvalues are computed using numpy's `np.linalg.eig` function.
 
-FreeEigenは、自由格子フェルミオンの固有スペクトルをプロットするために設計されたJupyter Notebookです。固有値はnumpyの`np.linalg.eig`関数を使用して計算されます。
+FreeEigenは、自由な格子フェルミオンの固有スペクトルをプロットするために設計されたJupyter Notebookです。固有値はnumpyの`np.linalg.eig`関数を使用して計算されます。
 
 
 ## Current Status 現在の状況(2023/11/26)
@@ -37,10 +37,10 @@ The project currently includes two distinct classes along with a lookup table fo
 
 ## Acknowledgments
 Special thanks to:
-- [NatLee]
-- [Hsu]
-- [Ken]
+- [NatLee] for implementing the multithreading in previous verision
+- [Hsu] for building the lookup table of trigonometric functions
+- [Ken] whom tell me my code looks like shit. 燒臘うまい
   
-  whom providing the techique support to this work when I've no idea about python.
+  They providing the techique support to this work when I've no idea about python.
   
-  彼らは、私がPythonについて何も知らないときに、この作業に技術的なサポートを提供してくれました。
+  彼らは、私がPythonについて何も知らないときに、このプロジェクトに技術的なサポートを提供してくれました。
