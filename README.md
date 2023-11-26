@@ -27,6 +27,7 @@ The project currently includes two distinct classes along with a lookup table fo
   
 - **マルチスレッドの実装：** 2023年11月26日現在、マルチスレッド機能はまだ実装されておらず、今後のアップデートで計画されています。
 
+- **Flake8の導入:** 詳しくはまた決めていないので。
   
 ## Not to Do
 
